@@ -1,0 +1,1143 @@
+.applcation-form-assessment,
+.applcation-form-assessment * {
+  box-sizing: border-box;
+}
+.applcation-form-assessment {
+  background: #f5f5f5;
+  width: 1440px;
+  height: 2018px;
+  position: relative;
+  overflow: hidden;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1922px;
+  position: absolute;
+  left: 0px;
+  top: 96px;
+}
+.group-1 {
+  width: 1853px;
+  height: 1279.29px;
+  position: static;
+}
+.ellipse-9 {
+  background: rgba(41, 22, 111, 0.4);
+  border-radius: 50%;
+  width: 371px;
+  height: 393.29px;
+  position: absolute;
+  left: 1265px;
+  top: 269px;
+  filter: blur(159.23px);
+}
+.ellipse-10 {
+  background: rgba(41, 22, 111, 0.4);
+  border-radius: 50%;
+  width: 371px;
+  height: 393.29px;
+  position: absolute;
+  left: -217px;
+  top: 1155px;
+  filter: blur(159.23px);
+}
+.header {
+  background: #ffffff;
+  padding: 16px 8px 16px 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 1440px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 0px;
+}
+.frame-6 {
+  flex-shrink: 0;
+  width: 1200px;
+  height: 64px;
+  position: relative;
+}
+.logo {
+  width: 227.12px;
+  height: 64px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.mdi-email-outline {
+  position: absolute;
+  left: 757.12px;
+  top: 20px;
+  overflow: visible;
+}
+.support-adecom-edu-ng {
+  color: var(--textcolor, #0c0620);
+  text-align: center;
+  font: var(--caption, 300 14px/20px "Montserrat", sans-serif);
+  position: absolute;
+  left: 797.12px;
+  top: 8px;
+}
+.enquiries-adecom-edu-ng {
+  color: var(--textcolor, #0c0620);
+  text-align: center;
+  font: var(--caption, 300 14px/20px "Montserrat", sans-serif);
+  position: absolute;
+  left: 797.12px;
+  top: 36px;
+}
+.carbon-phone {
+  position: absolute;
+  left: 1025.11px;
+  top: 20px;
+  overflow: visible;
+}
+._234-800-000-1000 {
+  color: var(--textcolor, #0c0620);
+  text-align: center;
+  font: var(--caption, 300 14px/20px "Montserrat", sans-serif);
+  position: absolute;
+  left: 1061.11px;
+  top: 8px;
+}
+._234-700-000-0000 {
+  color: var(--textcolor, #0c0620);
+  text-align: center;
+  font: var(--caption, 300 14px/20px "Montserrat", sans-serif);
+  position: absolute;
+  left: 1061.11px;
+  top: 36px;
+}
+.page-name {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 144px;
+}
+.online-application-for-national-diploma-post-utme-full-time {
+  color: var(--primarycolor, #29166f);
+  text-align: left;
+  font: 400 14px/24px "Montserrat", sans-serif;
+  position: relative;
+}
+.form {
+  background: #ffffff;
+  border-radius: 10px;
+  width: 1200px;
+  height: 1670px;
+  position: absolute;
+  left: 120px;
+  top: 212px;
+  box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.frame-53 {
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 48px;
+  top: 43px;
+}
+.form-contents {
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.course-details-section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 983px;
+  position: relative;
+}
+.course-detail-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.course-details {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--title, 500 24px/32px "Montserrat", sans-serif);
+  position: relative;
+}
+.rectangle-1 {
+  background: var(--primarycolor, #29166f);
+  border-radius: 5px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 4px;
+  position: relative;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.jamb-no {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.jamb-number {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.frame-15 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 240px;
+  position: relative;
+}
+.enter-jamb-number {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.jamb-year {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.jamb-year2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.select-year {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.icons-8-angle-up {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.course-of-study {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.proposed-course-of-study {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.frame-16 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 240px;
+  position: relative;
+}
+.select-course {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.icons-8-angle-up2 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.personal-details-section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.personal-details {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.personal-details2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--title, 500 24px/32px "Montserrat", sans-serif);
+  position: relative;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.row-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.surname {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.surname2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-surname {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.first-name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.first-name2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-first-name {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.middle-name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.middle-name2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-middle-name {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.row-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email-address {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email-address2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-email-address {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.gender {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.gender2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.select-gender {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.icons-8-angle-up3 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.phone {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phone-number {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-phone-number {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.row-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nationality {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.nationality2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.select-country {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.icons-8-angle-up4 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.state {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.state2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.select-state {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.icons-8-angle-up5 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.marital-status {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.home-address {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.permanent-home-address {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-home-address {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  flex: 1;
+}
+.row-5 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sponsor-name {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.full-name-of-sponsor {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-full-name {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 138px;
+}
+.email-of-sponsor {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.email-address-of-sponsor {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-email-address2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 197px;
+}
+.relation-with-sponsor {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.relationship {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-relationship {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 176px;
+}
+.row-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.religion {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.religion2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-religion {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 138px;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.marital-status2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-status {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 138px;
+}
+.dob {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.date-of-birth {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.frame-30 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-162 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.day {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+}
+.icons-8-angle-up6 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.frame-17 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.month {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+}
+.icons-8-angle-up7 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.frame-18 {
+  background: #f5f5f5;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.2);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.year {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+}
+.icons-8-angle-up8 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.exam-details-section {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.exams-taken {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.examinations-taken {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--title, 500 24px/32px "Montserrat", sans-serif);
+  position: relative;
+}
+.exam-information-row {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.exam-type {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.examination-type {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.select-examination {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 199px;
+}
+.icons-8-angle-up9 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.exam-year {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.exam-year2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.select-year2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 199px;
+}
+.icons-8-angle-up10 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(-16px, -16px);
+  overflow: visible;
+}
+.exam-no {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.exam-no2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.enter-exam-no {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 210px;
+}
+.first-sitting-info {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.first-sitting {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: 500 20px/32px "Montserrat", sans-serif;
+  position: relative;
+}
+.result-info {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.subject {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.subject2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.enter-subject {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 199px;
+}
+.grade {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.grade2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.enter-grade {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--body, 400 16px/24px "Montserrat", sans-serif);
+  opacity: 0.5;
+  position: relative;
+  width: 199px;
+}
+.add-subject {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.gala-add {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.gala-add-0 {
+  position: absolute;
+  left: 1.25px;
+  top: 1.25px;
+  overflow: visible;
+}
+.add-subject2 {
+  color: var(--textcolor, #0c0620);
+  text-align: left;
+  font: var(--caption, 300 14px/20px "Montserrat", sans-serif);
+  position: relative;
+}
+.submit-button {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 240px;
+  position: relative;
+}
+.button {
+  background: var(--primarycolor, #29166f);
+  border-radius: 10px;
+  padding: 14px 24px 14px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.button2 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--button, 500 18px/24px "Montserrat", sans-serif);
+  position: relative;
+}
+.copyright {
+  opacity: 0.699999988079071;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 180px);
+  top: 1970px;
+}
+.ph-copyright-light {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._2023-all-rights-reserved {
+  color: #000000;
+  text-align: left;
+  font: 400 14px/24px "Montserrat", sans-serif;
+  position: relative;
+}
+.line-1 {
+  border-style: solid;
+  border-color: var(--textcolor, #0c0620);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 20px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.developed-by-tec-hi-t {
+  color: #000000;
+  text-align: left;
+  font: 400 14px/24px "Montserrat", sans-serif;
+  position: relative;
+}
